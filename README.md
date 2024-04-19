@@ -37,3 +37,9 @@ and I need a way to classify this data so that every group of documents similar 
 Spilit data to topics and return ( topic, prob )
 
 ## Visualition Topic Model
+
+
+![Screenshot (112)](https://github.com/ahmedzaky1/BERTopic/assets/103897664/be307a5c-81bb-4721-bc7a-2884d8111784)
+![Screenshot (111)](https://github.com/ahmedzaky1/BERTopic/assets/103897664/9d5873e6-d73a-4f76-bdb4-eb39d5afe4d9)
+![Screenshot (110)](https://github.com/ahmedzaky1/BERTopic/assets/103897664/12bd3aa2-c908-4a44-8779-5cccab8536e9)
+![Screenshot (113)](https://github.com/ahmedzaky1/BERTopic/assets/103897664/f88edb17-f17c-4161-b500-842f76ce1657)
